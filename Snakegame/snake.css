@@ -1,0 +1,8 @@
+body {
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  canvas {
+    border: 8px solid rgb(247, 33, 33);
+  }
+  
